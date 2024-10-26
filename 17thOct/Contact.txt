@@ -1,0 +1,8 @@
+usha:99898098098
+vishnu:80980909909
+
+const data:{
+    name:'usha'
+    age:'age'
+    phone:'9390986960'
+}
